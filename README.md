@@ -115,6 +115,4 @@ __NullSessionPipes2_cis__ |"netlogon, samr, lsarpc"| CIS value.
 
 
 # Author Information:
-Richard M. Williams
-
-rmwill@us.ibm.com
+Richard M. Williams (williamsitv@yahoo.com)
